@@ -8,5 +8,13 @@
     - West: the mining outpost of Wind’s Gulch, high between the mountains
     - From there the road leads to Liz Mah Naar, a village of native drakona and settler elves
     - North-East (across the river), the lumbering outpost of [TODO] encroaches on Native homelands (Native Village)
-    - to the south, this town is one of the last stops on the **Ticken Trail**, before this hazardous road crosses the Great Southern Desert
+    - to the south, this town is one of the last stops on the [**Ticken Trail**](./ticken-trail.md), before this hazardous road crosses the Great Southern Desert
 - Recently, a large deposit of Dragon Guano was discovered under the town
+## notable inhabintants
+- [Ike Dalton](./ike-dalton.md)
+- [Liz Dalton](./liz-dalton.md)
+- [Lindsey Hogan](./lindsey-hogan.md)
+- ["Red" Nora](./nora.md)
+- [Father Frank](./father-frank.md)
+- [Ludo Lazlow](./ludo-lazlow.md)
+- 
