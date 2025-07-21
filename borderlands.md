@@ -7,5 +7,7 @@
 - 10 yrs ago: Winds Gulch is established as a copper mine
 ## Settlements
 - [Green's End](./greens-end.md)
+- [Liz Mah Naar](./drakona-village.md)
+- [Cliffbridge](./cliffbridge.md)
 ## Random
 - Several waves of settlers came before
