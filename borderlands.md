@@ -10,5 +10,6 @@
 - [Liz Mah Naar](./drakona-village.md)
 - [Cliffbridge](./cliffbridge.md)
 - [Wind's Gulch](./winds-gulch.md)
+- [Mycotaia](./fungril-village.md)
 ## Random
 - Several waves of settlers came before
