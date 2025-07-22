@@ -11,6 +11,8 @@
 - [Cliffbridge][cliffbridge]
 - [Wind's Gulch][winds-gulch]
 - [Mycotaia](/fungril-village/town.md)
+- [lumber post](/lumber-post/town.md)
+- [Ryder City](/ryder-city/town.md)
 ## Random
 - Several waves of settlers came before
 
