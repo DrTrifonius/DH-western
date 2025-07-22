@@ -6,8 +6,8 @@
 - 20 yrs ago: railroad reaches Cliffbridge
 - 10 yrs ago: Winds Gulch is established as a copper mine
 ## Settlements
-- [Green's End](./home-town.md)
-- [Liz Mah Naar](./drakona-village.md)
+- [Green's End](town.hometown.md)
+- [Liz Mah Naar](town.drakona_village.md)
 - [Cliffbridge](./cliffbridge.md)
 - [Wind's Gulch](./winds-gulch.md)
 - [Mycotaia](./fungril-village.md)
