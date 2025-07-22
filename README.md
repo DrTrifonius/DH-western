@@ -1,3 +1,3 @@
 # DH-western
 
-- [the western borderlands](region.borderlands.md)
+- [the western borderlands](/borderlands/region.md)
