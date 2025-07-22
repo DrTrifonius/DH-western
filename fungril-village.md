@@ -1,4 +1,7 @@
 # Mycotaia
 
 
->! village of shrooms
+<details>
+<summary>SPOILER</summary>
+can fly
+</details>
