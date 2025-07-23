@@ -1,4 +1,4 @@
-# The Western Borderlands
+# 🐎The Western Borderlands
 ## Timeline
 
 - 250 yrs ago: [Great Plague](TODO) ends, leaving pockets of native peoples across the area

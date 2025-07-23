@@ -1,3 +1,3 @@
-# Wind's Gulch
+# ⛏️ Wind's Gulch
 - Copper Mine
 - TODO
