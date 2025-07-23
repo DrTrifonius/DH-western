@@ -1,4 +1,4 @@
-# Mycotaia
+# 🌳 Mycotaia
 ## Population
 - 400 fungril
 ## Food
