@@ -16,15 +16,16 @@
 - [Lindsey Hogan](/towns/hometown/npc/hometown-sheriff.md)
 - ["Red" Nora](/towns/hometown/npc/nora.md)
 - [Father Frank](/towns/hometown/npc/hometown-priest.md)
-- [Ludo Lazlow](/towns/hometown/npc/gg-merchant.md)
+- [Ludo Lazlow](/towns/hometown/npc/hometown-gg-merchant.md)
+- [smith](/towns/hometown/npc/hometown-smith.md)
 ## Locations
 - [Golden Spur Saloon](/towns/hometown/loc/golden-saloon.md)
 - [Silver Feather Saloon](/towns/hometown/loc/silver-saloon.md)
-- [Sheriff's Office]
+- [Sheriff's Office](/towns/hometown/loc/hometown-police.md)
 - [Doctor's Office]
-- [Smithy]
-- [General Goods Store]
-- [Church]
+- [Smithy](/towns/hometown/loc/hometown-smithy.md)
+- [General Goods Store](/towns/hometown/loc/hometown-gg.md)
+- [Church](/towns/hometown/loc/hometown-church.md)
 
-[desert]: /TODO.md
-[pissouri]: /TODO.md
+[desert]: /regions/desert/desert.md
+[pissouri]: /various/pissouri.md
