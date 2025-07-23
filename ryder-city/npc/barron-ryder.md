@@ -4,8 +4,8 @@
 - villain
 
 <details>
-	<summary>
-		SPOILER! GM ONLY
-	</summary>
-    
+  <summary>
+    SPOILER! GM ONLY
+  </summary>
+  spoilers!
 </details>

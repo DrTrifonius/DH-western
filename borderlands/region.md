@@ -16,6 +16,5 @@
 ## Random
 - Several waves of settlers came before
 
-
 [cliffbridge]: /cliffbridge/town.md
 [winds-gulch]: /winds-gulch/town.md
