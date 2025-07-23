@@ -1,14 +1,14 @@
 # 🏠Green's End (home town)
 ## Situation
-- Last town before the Desert
-- in the foothills of the mountains
-- in the valley of the Pissouri River
+- Last town before the [Desert][desert]
+- in the foothills of the [mountains]
+- in the valley of the [Pissouri River]
 - at a bridge and fork in the road:
-  - north: the Town of Cliffbridge, which has a train station
+  - north: the Town of [Cliffbridge](/towns/cliffbridge/cliffbridge.md), which has a train station
   - West: the mining outpost of [Wind's Gulch](/towns/towns/winds-gulch/mine-outpost.md), high between the mountains
-  - From there the road leads to Liz Mah Naar, a village of native drakona and settler elves
-  - North-East (across the river), the lumbering outpost of [TODO](/towns/towns/lumber-post/lumber-post.md) encroaches on Native homelands (Native Village)
-  - to the south, this town is one of the last stops on the [Ticken Trail](/regions/borderlands/ticken-trail.md), before this hazardous road crosses the Great Southern Desert
+  - From there the road leads to [Liz Mah Naar](/towns/liz-mah-naar/drakona-village.md), a village of native drakona and settler elves
+  - North-East (across the river), the lumbering outpost of [TODO](/towns/towns/lumber-post/lumber-post.md) encroaches on Native homelands ([Native Village](/towns/fungril-village/native-village.md))
+  - to the south, this town is one of the last stops on the [Ticken Trail](/ticken-trail.md), before this hazardous road crosses the [Great Southern Desert][desert]
 - Recently, a large deposit of Dragon Guano was discovered under the town
 ## notable inhabitants
 - [Ike Dalton](/hometown/npc/ike-dalton.md)
@@ -25,3 +25,5 @@
 - [Smithy](/hometown/loc/smithy.md)
 - [General Goods Store](/hometown/loc/store.md)
 - [Church](/hometown/loc/church.md)
+
+[desert]: /TODO.md
