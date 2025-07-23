@@ -6,15 +6,15 @@
 - 20 yrs ago: railroad reaches [Cliffbridge][cliffbridge]
 - 10 yrs ago: [Winds Gulch][winds-gulch] is established as a copper mine
 ## Settlements
-- [Green's End](/hometown/hometown.md)
-- [Liz Mah Naar](/liz-mah-naar/town.md)
+- [Green's End](/towns/hometown/hometown.md)
+- [Liz Mah Naar](/towns/liz-mah-naar/town.md)
 - [Cliffbridge][cliffbridge]
 - [Wind's Gulch][winds-gulch]
-- [Mycotaia](/fungril-village/native-village.md)
-- [lumber post](/lumber-post/lumber-post.md)
-- [Ryder City](/ryder-city/rail-city.md)
+- [Mycotaia](/towns/fungril-village/native-village.md)
+- [lumber post](/towns/lumber-post/lumber-post.md)
+- [Ryder City](/towns/ryder-city/rail-city.md)
 ## Random
 - Several waves of settlers came before
 
-[cliffbridge]: /cliffbridge/town.md
-[winds-gulch]: /winds-gulch/mine-outpost.md
+[cliffbridge]: /towns/cliffbridge/town.md
+[winds-gulch]: /towns/winds-gulch/mine-outpost.md
