@@ -18,6 +18,7 @@
 - [Father Frank](/towns/hometown/npc/hometown-priest.md)
 - [Ludo Lazlow](/towns/hometown/npc/hometown-gg-merchant.md)
 - [smith](/towns/hometown/npc/hometown-smith.md)
+- [doctor]
 ## Locations
 - [Golden Spur Saloon](/towns/hometown/loc/golden-saloon.md)
 - [Silver Feather Saloon](/towns/hometown/loc/silver-saloon.md)
