@@ -1,15 +1,15 @@
 # 🏠Green's End (home town)
 ## Situation
 - Last town before the [Desert][desert]
-- in the foothills of the [mountains]
+- in the foothills of the [mountains](/various/mountains.md)
 - in the valley of the [Pissouri River][pissouri]
 - at a bridge and fork in the road:
   - north: the Town of [Cliffbridge](/towns/cliffbridge/cliffbridge.md), which has a train station
-  - West: the mining outpost of [Wind's Gulch](/towns/towns/winds-gulch/mine-outpost.md), high between the mountains
+  - West: the mining outpost of [Wind's Gulch](/towns/winds-gulch/mine-outpost.md), high between the [mountains](/various/mountains.md)
   - From there the road leads to [Liz Mah Naar](/towns/liz-mah-naar/drakona-village.md), a village of native drakona and settler elves
-  - North-East (across the [river][pissouri]), the lumbering outpost of [TODO](/towns/towns/lumber-post/lumber-post.md) encroaches on Native homelands ([Native Village](/towns/fungril-village/native-village.md))
+  - North-East (across the [river][pissouri]), the lumbering outpost of [TODO](/towns/lumber-post/lumber-post.md) encroaches on Native homelands ([Native Village](/towns/fungril-village/native-village.md))
   - to the south, this town is one of the last stops on the [Ticken Trail](/various/ticken-trail.md), before this hazardous road crosses the [Great Southern Desert][desert]
-- Recently, a large deposit of Dragon Guano was discovered under the town
+- Recently, a large deposit of [Dragon Guano](/various/dragon-guano.md) was discovered under the town
 ## notable inhabitants
 - [Ike Dalton](/towns/hometown/npc/ike-dalton.md)
 - [Liz Dalton](/towns/hometown/npc/liz-dalton.md)
