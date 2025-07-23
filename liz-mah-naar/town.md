@@ -8,4 +8,3 @@
 - sustenance farming of mushrooms in caves and salt mines
 - ranching of mountain sheep for wool and milk
 - mining of salt and limited copper
-

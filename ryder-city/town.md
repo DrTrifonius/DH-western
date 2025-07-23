@@ -1,8 +1,8 @@
 # Ryder City
 
 <details>
-	<summary>
-		SPOILER! GM ONLY
-	</summary>
-	spoilsport ;)
+  <summary>
+    SPOILER! GM ONLY
+  </summary>
+  spoilsport ;)
 </details>
