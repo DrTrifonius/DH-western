@@ -1,4 +1,4 @@
 # Boot-lace Roughstalk
 - he/him
-- wildborne fungril
+- wildborne [fungril](/fungril-village.town.md)
 - Stalwart guardian
