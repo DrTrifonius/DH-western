@@ -15,30 +15,39 @@
 - [Liz Dalton][liz]
 - [Lindsey Hogan][sheriff]
 - ["Red" Nora][nora]
-- [Father Frank](/towns/hometown/npc/hometown-priest.md)
-- [Ludo Lazlow](/towns/hometown/npc/hometown-gg-merchant.md)
-- [smith](/towns/hometown/npc/hometown-smith.md)
+- [Father Frank][priest]
+- [Ludo Lazlow][gg-merch]
+- [smith][smith]
 - [doctor]
 ## Locations
-- [Golden Spur Saloon](/towns/hometown/loc/golden-saloon.md)
-- [Silver Feather Saloon](/towns/hometown/loc/silver-saloon.md)
-- [Sheriff's Office](/towns/hometown/loc/hometown-police.md)
+- [Golden Spur Saloon][gold-saloon]
+- [Silver Feather Saloon][silver-saloon]
+- [Sheriff's Office][sheriff-office]
 - [Doctor's Office]
-- [Smithy](/towns/hometown/loc/hometown-smithy.md)
-- [General Goods Store](/towns/hometown/loc/hometown-gg.md)
-- [Church](/towns/hometown/loc/hometown-church.md)
+- [Smithy][smithy]
+- [General Goods Store][gg-store]
+- [Church][church]
 
 [desert]: /desert.md
 [pissouri]: /pissouri.md
-[ike]: /towns/hometown/npc/ike-dalton.md
-[liz]: /towns/hometown/npc/liz-dalton.md
+[ike]: /hometown-ike-dalton.npc.md
+[liz]: /hometown-liz-dalton.npc.md
 [mnts]: /mountains.md
-[cliffbridge]: /towns/cliffbridge/cliffbridge.md
-[winds-gulch]: /towns/winds-gulch/mine-outpost.md
-[liz-mah-naar]: /towns/liz-mah-naar/drakona-village.md
-[lumber]: /towns/lumber-post/lumber-post.md
-[fungr-ville]: /towns/fungril-village/native-village.md
-[ticken-trail]: /various/ticken-trail.md
-[dragon-guano]: /various/dragon-guano.md
-[sheriff]: /towns/hometown/npc/hometown-sheriff.md
-[nora]: /towns/hometown/npc/nora.md
+[cliffbridge]: /cliffbridge.town.md
+[winds-gulch]: /winds-gulch.town.md
+[liz-mah-naar]: /liz-mah-naar.town.md
+[lumber]: /lumber-post.town.md
+[fungr-ville]: /fungril-village.town.md
+[ticken-trail]: /ticken-trail.md
+[dragon-guano]: /dragon-guano.md
+[sheriff]: /hometown-sheriff.npc.md
+[nora]: /hometown-nora.npc.md
+[priest]: /hometown-priest.npc.md
+[gg-merch]: /towns/hometown/npc/hometown-gg-merchant.md
+[smith]: /towns/hometown/npc/hometown-smith.md
+[gold-saloon]: /towns/hometown/loc/golden-saloon.md
+[silver-saloon]: /towns/hometown/loc/silver-saloon.md
+[sheriff-office]: /towns/hometown/loc/hometown-police.md
+[smithy]: /towns/hometown/loc/hometown-smithy.md
+[gg-store]: /towns/hometown/loc/hometown-gg.md
+[church]: /towns/hometown/loc/hometown-church.md
