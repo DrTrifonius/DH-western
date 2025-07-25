@@ -1,11 +1,11 @@
 # 🏠Green's End (home town)
 ## Situation
 - Last town before the [Desert][desert]
-- in the foothills of the [mountains][mnts]
+- in the foothills of the [mountains][mountains]
 - in the valley of the [Pissouri River][pissouri]
 - at a bridge and fork in the road:
   - north: the Town of [Cliffbridge][cliffbridge], which has a train station
-  - West: the mining outpost of [Wind's Gulch][winds-gulch], high between the [mountains][mnts]
+  - West: the mining outpost of [Wind's Gulch][winds-gulch], high between the [mountains][mountains]
   - From there the road leads to [Liz Mah Naar][liz-mah-naar], a village of native drakona and settler elves
   - North-East (across the [river][pissouri]), the lumbering outpost of [TODO][lumber] encroaches on Native homelands ([Native Village][fungr-ville])
   - to the south, this town is one of the last stops on the [Ticken Trail][ticken-trail], before this hazardous road crosses the [Great Southern Desert][desert]
@@ -18,12 +18,12 @@
 - [Father Frank][priest]
 - [Ludo Lazlow][gg-merch]
 - [smith][smith]
-- [doctor]
+- [doctor][doctor]
 ## Locations
 - [Golden Spur Saloon][gold-saloon]
 - [Silver Feather Saloon][silver-saloon]
 - [Sheriff's Office][sheriff-office]
-- [Doctor's Office]
+- [Doctor's Office][doctor-office]
 - [Smithy][smithy]
 - [General Goods Store][gg-store]
 - [Church][church]
@@ -32,7 +32,7 @@
 [pissouri]: /pissouri.md
 [ike]: /hometown-ike-dalton.npc.md
 [liz]: /hometown-liz-dalton.npc.md
-[mnts]: /mountains.md
+[mountains]: /mountains.md
 [cliffbridge]: /cliffbridge.town.md
 [winds-gulch]: /winds-gulch.town.md
 [liz-mah-naar]: /liz-mah-naar.town.md
@@ -51,3 +51,5 @@
 [smithy]: /hometown-smithy.loc.md
 [gg-store]: /hometown-gg.loc.md
 [church]: /hometown-church.loc.md
+[doctor]: /hometown-doctor.npc.md
+[doctor-office]: /hometown-doctor.loc.md
