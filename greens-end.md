@@ -36,7 +36,7 @@
 [cliffbridge]: /cliffbridge.town.md
 [winds-gulch]: /winds-gulch.town.md
 [liz-mah-naar]: /liz-mah-naar.town.md
-[lumber]: /lumber-post.town.md
+[lumber]: /willow-grove.town.md
 [fungr-ville]: /fungril-village.town.md
 [ticken-trail]: /ticken-trail.md
 [dragon-guano]: /dragon-guano.md

@@ -1,7 +1,7 @@
 # 🐎The Western Borderlands
 ## Timeline
 
-- 250 yrs ago: [Great Plague](TODO) ends, leaving pockets of native peoples across the area
+- 250 yrs ago: [Great Plague](/great-plague.md) ends, leaving pockets of native peoples across the area
 - 150 yrs ago: first settlers arrive in the area
 - 20 yrs ago: railroad reaches [Cliffbridge][cliffbridge]
 - 10 yrs ago: [Winds Gulch][winds-gulch] is established as a copper mine
@@ -11,7 +11,7 @@
 - [Cliffbridge][cliffbridge]
 - [Wind's Gulch][winds-gulch]
 - [Mycotaia](/fungril-village.town.md)
-- [lumber post](/lumber-post.town.md)
+- [lumber post](/willow-grove.town.md)
 - [Ryder City](/ryder-city.town.md)
 ## Random
 - Several waves of settlers came before
